@@ -1,4 +1,5 @@
 requests
 feedparser
 schedule
-google-generativeai
+flask
+google-genai
